@@ -1,1 +1,2 @@
-# setris
+# Cellular Automata Ecosystem
+
